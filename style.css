@@ -50,6 +50,10 @@ p {
     text-align: center;
 }
 
+footer a:hover {
+text-decoration: none;
+}
+
 /*No touch*/
 h1, h2, nav, .cap, footer {
   text-align: center;
