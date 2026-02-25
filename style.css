@@ -35,11 +35,19 @@ a:hover {
 }
 
 a: active {
-   color: lightgoldenrodyellow;
+   color: Khaki;
+}
+
+figure {
+   text-align: center;
 }
 
 .caption {
-   color: lightgoldenrodyellow
+   color: khaki;
+}
+
+p {
+    text-align: center;
 }
 
 /*No touch*/
