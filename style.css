@@ -17,6 +17,15 @@ h2{
   text-align: center;
 }
 
+Img{
+   width: 100%;
+   height: auto;
+}
+
+nav {
+   text-align: center;
+   padding: 1rem 0 2rem;
+}
 
 
 /*No touch*/
