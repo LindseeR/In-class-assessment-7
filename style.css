@@ -22,9 +22,20 @@ Img{
    height: auto;
 }
 
-nav {
-   text-align: center;
-   padding: 1rem 0 2rem;
+a:link {
+   color: powderblue;
+}
+
+a:visited {
+   color: pink;
+}
+
+a:hover {
+   color: palevioletred;
+}
+
+a: active {
+   color: lightgoldenrodyellow;
 }
 
 
