@@ -38,6 +38,9 @@ a: active {
    color: lightgoldenrodyellow;
 }
 
+.caption {
+   color: lightgoldenrodyellow
+}
 
 /*No touch*/
 h1, h2, nav, .cap, footer {
