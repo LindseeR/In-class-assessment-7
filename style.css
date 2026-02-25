@@ -1,10 +1,21 @@
 /*Add your CSS here*/
+* { margin: 0; 
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+   font-size: 16px;
+   color: #000000;
+}
 
+h1{
+  font-size: 35px;
+  text-align: center;
+}
 
-
-
-
-
+h2{
+  color: pink;
+  text-align: center;
+}
 
 
 
